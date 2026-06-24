@@ -88,7 +88,4 @@ The goal is to extract useful insights from raw data using Pandas, NumPy, Matplo
 ## Conclusion
 This project demonstrates end-to-end data analysis workflow including data cleaning, visualization, and insights extraction using Python.
 
----
 
-## Author
-Your Name
